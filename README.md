@@ -1,9 +1,9 @@
 # Energy Efficiency: A Pathway to Sustainable Living 🌱⚡
 
-![Electric Vehicles Driving the Future](EV_image_1.png)
-
-![Electric Vehicle Sustainability](EV_image_2.png)
-
+<p align="center">
+  <img src="EV_image_1.png" width="45%" />
+  <img src="EV_image_2.png" width="45%" />
+</p>
 ## Overview
 
 Energy efficiency plays a crucial role in creating a sustainable future by reducing energy consumption, minimizing environmental impacts, and promoting responsible use of resources.
