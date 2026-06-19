@@ -4,6 +4,20 @@
   <img src="EV_image_1.png" width="30%" />
   <img src="EV_image_2.png" width="30%" />
 </p>
+
+<table>
+<tr>
+<td>
+<img src="EV_image_1.png" width="400">
+</td>
+
+<td width="50"></td>
+
+<td>
+<img src="EV_image_2.png" width="400">
+</td>
+</tr>
+</table>
 ## Overview
 
 Energy efficiency plays a crucial role in creating a sustainable future by reducing energy consumption, minimizing environmental impacts, and promoting responsible use of resources.
