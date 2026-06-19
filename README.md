@@ -1,8 +1,8 @@
 # Energy Efficiency: A Pathway to Sustainable Living 🌱⚡
 
 <p align="center">
-  <img src="EV_image_1.png" width="40%" />
-  <img src="EV_image_2.png" width="40%" />
+  <img src="EV_image_1.png" width="30%" />
+  <img src="EV_image_2.png" width="30%" />
 </p>
 ## Overview
 
