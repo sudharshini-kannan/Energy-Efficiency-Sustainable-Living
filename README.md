@@ -1,20 +1,17 @@
 # Energy Efficiency: A Pathway to Sustainable Living 🌱⚡
 
-<p align="center">
-  <img src="EV_image_1.png" width="30%" />
-  <img src="EV_image_2.png" width="30%" />
-</p>
+ 
 
 <table>
 <tr>
 <td>
-<img src="EV_image_1.png" width="400">
+<img src="EV_image_1.png" width="300">
 </td>
 
 <td width="50"></td>
 
 <td>
-<img src="EV_image_2.png" width="400">
+<img src="EV_image_2.png" width="300">
 </td>
 </tr>
 </table>
